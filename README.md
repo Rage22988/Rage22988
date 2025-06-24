@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhishek</h1>
 <h3 align="center">I am passionate in cyber forensics and Cybersecurity Reachers from India</h3>
 
-- 🔭 I’m currently working on [Video Steganography software](currently in progress)
-
-- 🌱 I’m currently learning **.net language**
-
-- 👯 I’m looking to collaborate on **wifirubber ducky**
-
 - 📫 How to reach me **sutharabhishek4@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/fabhisheks](https://www.linkedin.com/in/fabhisheks)
